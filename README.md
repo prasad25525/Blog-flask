@@ -1,3 +1,3 @@
 # Blog
 
-<h4><u> It is an ongoing Project..wait for few more minutes..</u></h4>
+<h4><u> It is a simple personal blog Project....!</u></h4>
